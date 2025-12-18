@@ -6,6 +6,7 @@ namespace MVC_Project_Pronia
 {
     public class Program
     {
+        
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
@@ -15,11 +16,8 @@ namespace MVC_Project_Pronia
             app.UseStaticFiles();
             app.MapControllerRoute(
                name: "default",
-               pattern: "{controller=Home}/{action=Index}/{id?}",
-               pattern: "{controller=Home}/{action=Blog}",
-               pattern: "{controller=Home}/{action=Shop}",
-               pattern: "{controller=Home}/{action=Wishlist}",
-               pattern: "{controller=Shop}/{action=SinglePage}"
+               pattern: "{controller=Home}/{action=Index}/{id?}"
+               
                
 
 

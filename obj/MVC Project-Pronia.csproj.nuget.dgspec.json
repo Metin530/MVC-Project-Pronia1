@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\MVC Project-Pronia.csproj": {}
+    "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\MVC Project-Pronia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\MVC Project-Pronia.csproj": {
+    "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\MVC Project-Pronia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\MVC Project-Pronia.csproj",
+        "projectUniqueName": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\MVC Project-Pronia.csproj",
         "projectName": "MVC Project-Pronia",
-        "projectPath": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\MVC Project-Pronia.csproj",
+        "projectPath": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\MVC Project-Pronia.csproj",
         "packagesPath": "C:\\Users\\METIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\obj\\",
+        "outputPath": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

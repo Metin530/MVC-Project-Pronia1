@@ -1,72 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\",
+  "WorkspaceRootPath": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\mvc project-pronia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:mvc project-pronia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\views\\shop\\singlepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\views\\shop\\singlepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:views\\shop\\singlepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\controllers\\singlepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:controllers\\singlepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\views\\w\u0131shlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:views\\w\u0131shlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\METIN\\OneDrive\\Desktop\\blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\source\\repos\\mvc project-pronia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\METIN\\OneDrive\\Desktop\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|c:\\users\\metin\\onedrive\\desktop\\mvc project-pronia\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B873C10-D04D-4956-A360-C1D7CF8728F5}|MVC Project-Pronia.csproj|solutionrelative:models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,212 +70,202 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA8JAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T19:57:45.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T19:40:37.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\Home\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Error.cshtml",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\Home\\Error.cshtml",
-              "RelativeToolTip": "Views\\Home\\Error.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAFMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-16T20:55:45.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SinglePage.cshtml",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\Shop\\SinglePage.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shop\\SinglePage.cshtml",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\Shop\\SinglePage.cshtml",
-              "RelativeToolTip": "Views\\Shop\\SinglePage.cshtml",
-              "ViewState": "AgIAAOcCAAAAAAAAAAAmwAUDAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-16T21:23:22.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T23:37:30.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAOMBAAAAAAAAAAAAAP0BAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T23:53:10.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MVC Project-Pronia.csproj",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\MVC Project-Pronia.csproj",
-              "RelativeDocumentMoniker": "MVC Project-Pronia.csproj",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\MVC Project-Pronia.csproj",
-              "RelativeToolTip": "MVC Project-Pronia.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-15T20:11:35.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T19:49:40.762Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACADAAAAAAAAAAAAAIMDAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T20:03:27.475Z"
+              "WhenOpened": "2025-12-18T20:44:40.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "Views\\Home\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T20:10:54.42Z"
+              "WhenOpened": "2025-12-18T20:38:07.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SinglePage.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Controllers\\SinglePage.cs",
+              "RelativeDocumentMoniker": "Controllers\\SinglePage.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Controllers\\SinglePage.cs",
+              "RelativeToolTip": "Controllers\\SinglePage.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:37:57.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACEHAAAAAAAAAAAAADMHAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:12:42.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAF8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:36:54.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Models\\Blog.cs",
+              "RelativeToolTip": "Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:48:53.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\W\u0131shlist\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\W\u0131shlist\\Index.cshtml",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\W\u0131shlist\\Index.cshtml",
-              "RelativeToolTip": "Views\\W\u0131shlist\\Index.cshtml",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAAAIsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-16T21:26:10.449Z"
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:43:00.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "WishlistController.cs",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Controllers\\WishlistController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WishlistController.cs",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Controllers\\WishlistController.cs",
-              "RelativeToolTip": "Controllers\\WishlistController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T23:41:48.071Z"
+              "WhenOpened": "2025-12-18T20:42:57.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SinglePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Views\\Shop\\SinglePage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\SinglePage.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Views\\Shop\\SinglePage.cshtml",
+              "RelativeToolTip": "Views\\Shop\\SinglePage.cshtml",
+              "ViewState": "AgIAAJEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T20:45:21.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T20:46:21.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAALEHAAAAAAAAAAAowM8HAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T23:57:32.876Z"
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WishlistController.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "Controllers\\WishlistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:37:58.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:37:42.906Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "blog.html",
-              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\blog.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\blog.html",
-              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\blog.html",
-              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\blog.html",
-              "ViewState": "AgIAABgHAAAAAAAAAABRwCMHAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-16T00:00:00.048Z"
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:49:26.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\Models\\Slide.cs",
+              "RelativeToolTip": "Models\\Slide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:41:48.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "Controllers\\ShopController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\MVC Project-Pronia\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T23:40:19.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\METIN\\source\\repos\\MVC Project-Pronia\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-15T22:08:37.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\METIN\\OneDrive\\Desktop\\index.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\index.html",
-              "ToolTip": "C:\\Users\\METIN\\OneDrive\\Desktop\\index.html",
-              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-15T23:32:33.524Z"
+              "WhenOpened": "2025-12-18T10:38:37.954Z",
+              "EditorCaption": ""
             }
           ]
         }
