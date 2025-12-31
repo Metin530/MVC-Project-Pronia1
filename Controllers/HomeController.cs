@@ -90,11 +90,6 @@ namespace MVC_Project_Pronia.Controllers
             {
                 Id = 1,
                 
-                Title = "Bağçılıqda Təbii Gübrələr",
-                Description = "Bitkilər üçün ekoloji təmiz və effektiv gübrələrin istifadəsi.",
-                ImageUrl = "1-1-300x220.jpg",
-                CreatedDate= new DateTime(1111, 11, 11)
-            } };
 
 
             HomeVM homeVM = new HomeVM
